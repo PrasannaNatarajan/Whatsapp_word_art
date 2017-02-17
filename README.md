@@ -6,3 +6,4 @@ Gives a word art, where the size of font is proportional to the number of chats 
 Note: It can only make the art out of the names you have saved in your contacts. So, It skips all just numbers
 ### To DO
 Give comments
+Choose better fonts and colors
