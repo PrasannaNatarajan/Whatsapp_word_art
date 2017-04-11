@@ -1,5 +1,5 @@
 # Whatsapp_word_art
-Takes input as a whatsapp group conversation
+Takes input as a whatsapp group's conversation
 
 Gives a word art, where the size of font is proportional to the number of chats by a person
 
