@@ -1,8 +1,23 @@
-# Whatsapp_word_art
-Takes input as a whatsapp group's conversation
+# Whatsapp Word Art
 
-Gives a word art, where the size of font is proportional to the number of chats by a person
+## Input
+- WhatsApp group conversation
 
-Note: It can only make the art out of the names you have saved in your contacts. It skips all "just numbers", to make the art look pretty
-### ToDo
-- Choose better fonts and colors
+## Output
+- A Word-Art, where the _size of font_ is proportional to the _number of messages_ by a person
+
+## Note
+- Only phone numbers that have saved names in your contacts will appear in the Word-Art. Unsaved numbers are skipped to make the art look pretty.
+
+## Dependencies
+- `pandas`
+- `matplotlib.pyplot`
+- `wordcloud`
+- `scipy.misc`
+
+## Usage
+- Install the Dependencies
+- Run the `.Whatsapp Art.ipynb` code in a [Jupyter](jupyter.org) notebook or in any python environment.
+
+## ToDo
+- Choose better fonts and colors!
