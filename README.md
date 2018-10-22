@@ -13,7 +13,7 @@
 - `pandas`
 - `matplotlib.pyplot`
 - `wordcloud`
-- `scipy.misc`
+- `scipy`
 
 ## Usage
 - Install the Dependencies
