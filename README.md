@@ -2,6 +2,7 @@
 
 ## Input
 - WhatsApp group conversation
+  - Send it as email to your own email (This gives a text document of the entire conversation)
 
 ## Output
 - A Word-Art, where the _size of font_ is proportional to the _number of messages_ by a person
