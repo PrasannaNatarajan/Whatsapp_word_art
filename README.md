@@ -21,3 +21,4 @@
 
 ## ToDo
 - Choose better fonts and colors!
+- Make it an API
